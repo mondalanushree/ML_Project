@@ -1,0 +1,4 @@
+stremalit
+pandas
+seaborn
+scikit-learn
